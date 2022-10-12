@@ -1,0 +1,6 @@
+begin_commit
+commit
+end_of_transaction
+begin_commit
+commit
+end_of_transaction
