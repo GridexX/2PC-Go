@@ -1,6 +1,6 @@
 # 2PC-Go 
 
-This simple POC? show how to implement a 2PC protocol in Go.
+This simple POC show how to implement a 2PC protocol in Go.
 
 It is used to determine if a transaction can be committed or not.
 
